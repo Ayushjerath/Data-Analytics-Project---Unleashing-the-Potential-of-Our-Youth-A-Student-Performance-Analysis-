@@ -1,0 +1,21 @@
+Question :-
+
+Q1) How does parental level of education affect student performance in math, reading, and writing? Does it have higher impact and any correlation can be seen? :- Done
+
+Q2) Is there a significant difference in the performance of male and female students? Does test preparation affect the performance of them? - Done
+
+Q3) Do students who have completed a test preparation course perform better than those who have not?
+
+Q4) How does the race/ethnicity of students correlate with their performance in math, reading, and writing? Can we identify any specific race/ethnicity groups that consistently outperform across all subjects?
+
+Q5) How does the interaction between parental education and race/ethnicity influence student performance in math, reading, and writing?
+
+Q6) Are there any significant differences in student performance among different racial/ethnic groups in each subject ?
+
+Q7) Can we predict a student's likelihood of scoring above a certain threshold in math based on their performance in reading and writing? Does scores of one subject is based on the other subject?
+
+Q8) Does the availability of a free/reduced or standard lunch program have a differential impact on student performance? :- Done
+
+Q9 How does the student's gender interact with their race/ethnicity in predicting their performance in each subject?  
+
+Q10) Can we identify any outliers or unusual patterns in student performance that deviate significantly from the expected trends based on the available factors?
